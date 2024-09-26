@@ -123,8 +123,8 @@ body {
 
 .menu-link-studio::after {
     position: absolute;
-    left: 0%;
-    bottom: -1%;
+    left: 0px;
+    bottom: -1px;
     display: block;
     width: 100%;
     height: 4px;
@@ -178,6 +178,7 @@ padding-left: 331px;
     background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/bg.ipg/people-office.jpg);
     background-size: cover;
     background-position: center;
+    background-repeat: no-repeat;
     max-width: 1440px;
     margin-left: auto;
     margin-right: auto;
