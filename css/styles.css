@@ -325,14 +325,13 @@ padding-left: 331px;
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 24px;
+    column-gap: 24px;
     flex-direction: row;
 
 }
 
 .list-social-team-item {
     display: flex;
-    
 }
 
 .link-social-list-team {
@@ -352,8 +351,7 @@ padding-left: 331px;
 }
 
 .icon-team-social {
-    fill: #F4F4FD;
-    stroke: #FFFFFF;
+    fill: none;
 }
 
 /* #endregion Team */
