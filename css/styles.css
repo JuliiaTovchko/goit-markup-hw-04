@@ -175,13 +175,13 @@ padding-left: 331px;
 
 .page-hero {
     background: #2e2f42;
-    background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7) ), url(../images/bg.ipg/people-office.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     max-width: 1440px;
     margin-left: auto;
     margin-right: auto;
+    background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/bg.jpg);
     color: #ffffff;
 }
 
