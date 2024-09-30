@@ -446,6 +446,8 @@ padding-left: 331px;
 }
 .container-footer {
     display: flex;
+    align-items: baseline;
+
 }
 
 .logo-footer {
@@ -487,8 +489,8 @@ padding-left: 331px;
 }
 
 .div-footer {
-    display: block;
     width: 264px;
+    margin-right: 120px;
 
 }
 
@@ -504,7 +506,6 @@ padding-left: 331px;
 
 .menu-page-footer {
     display: flex;
-    gap: 120px;
     margin-left: 0px;
 }
 
