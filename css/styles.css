@@ -479,6 +479,7 @@ padding-left: 331px;
 .social-list-footer {
     display: flex;
     column-gap: 16px;
+    margin-left: 0px;
 
 
 }
@@ -502,11 +503,6 @@ padding-left: 331px;
     margin-left: 0px;
     margin-bottom: 16px;
     color: #ffffff;
-}
-
-.menu-page-footer {
-    display: flex;
-    margin-left: 0px;
 }
 
 .link-social-list-footer {
